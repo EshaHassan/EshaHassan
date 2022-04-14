@@ -1,4 +1,3 @@
-![MasterHead](https://images.pexels.com/photos/1040474/pexels-photo-1040474.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500)
 <h1 align="center">Hi 👋, I'm Esha</h1>
 <h3 align="center">Bsc.Statistics Student</h3>
 <img align="right" alt="coding" width=400" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif">
